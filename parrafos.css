@@ -1,0 +1,18 @@
+body{
+   padding: 50px;
+}
+
+.parrafo-1{
+    text-align: center;
+}
+
+.parrafo-2{
+    text-align: right;
+}
+.parrafo-3{
+    text-align: justify;
+}
+
+.parrafo-4{
+    text-align: left;
+}
